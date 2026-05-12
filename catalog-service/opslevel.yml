@@ -10,7 +10,9 @@ component:
   language: Ruby
   framework: Akka HTTP
   description: This is a critical service.
-  aliases: catalog-service
+  aliases: 
+  - catalog service
+  - demo opslevel
   tags:
   repositories:
   tools:
