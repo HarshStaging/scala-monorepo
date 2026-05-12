@@ -17,7 +17,7 @@ component:
   dependencies:
   alert_sources:
   properties:
-    customer_facing: "yes"
+    customer_facing: True
     onboarding_notes:
     production_check:
     url:
